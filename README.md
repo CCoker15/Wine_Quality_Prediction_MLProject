@@ -57,6 +57,7 @@ We evaluated models using **Accuracy**, **Weighted F1-Score**, and **Log Loss**.
 Our analysis confirmed that nonlinear models better capture the complex chemical interactions that drive perceived wine quality[cite: 470]. While high alcohol content is strongly correlated with quality, it is not the sole driver; factors like wine type and volatile acidity play massive roles.
 
 **Limitations:** The dataset lacks extreme quality values (very few 3s or 9s), making it difficult to predict outliers.
+
 **Future Work:** We recommend incorporating SHAP value analysis to better interpret the specific impact of interactions and expanding the dataset to include wines from diverse geographic regions.
 
 ---
