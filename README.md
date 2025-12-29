@@ -1,7 +1,7 @@
-# Predicting Wine Quality with Machine Learning 🍷
+# Predicting Wine Quality with Machine Learning
 
 ### Project Overview
-[cite_start]**Authors:** Chris Coker, Isaac Graham, Kate Kollman [cite: 226]
+**Authors:** Chris Coker, Isaac Graham, Kate Kollman [cite: 226]
 **Course:** STAT 335
 
 This project applies machine learning techniques to predict the quality of Portuguese "Vinho Verde" wines based on physicochemical properties. [cite_start]By comparing linear baseline models against nonlinear gradient boosting methods, we aimed to identify the most significant chemical drivers of wine quality[cite: 231, 237].
