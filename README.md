@@ -63,5 +63,5 @@ Our analysis confirmed that nonlinear models better capture the complex chemical
 
 ### 📂 Files Included
 * `notebooks/Wine_Quality_Analysis.ipynb`: Complete Python code for EDA, cleaning, and modeling.
-* `reports/335_Final_Presentation(1).pdf`: Executive summary slide deck.
-* `reports/Project_Proposal.pdf`: Original hypothesis and project plan.
+* `reports/335 Final Presentation (1).pdf`: Executive summary slide deck.
+* `reports/STAT 335 Project Proposal.pdf`: Original hypothesis and project plan.
