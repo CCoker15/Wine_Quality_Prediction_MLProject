@@ -2,6 +2,7 @@
 
 ### Project Overview
 **Authors:** Chris Coker, Isaac Graham, Kate Kollman
+
 **Course:** STAT 335
 
 This project applies machine learning techniques to predict the quality of Portuguese "Vinho Verde" wines based on physicochemical properties. By comparing linear baseline models against nonlinear gradient boosting methods, we aimed to identify the most significant chemical drivers of wine quality.
